@@ -1,0 +1,7 @@
+WELCOME TO FROSTFALL RPG
+
+HOW TO PLAY:
+- Enter dungeon to fight enemies
+- Use shop to buy items
+- Collect weapons and armor
+- Defeat boss at level 5
